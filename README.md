@@ -3,6 +3,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Alex+Reynolds;Web+Developer;Computer+Science+Masters+Student;All+Around+Nerd" alt="Typing SVG" /></a>
 </p>
 <br>
+
+<p align="center"> 
+  <img src="https://github-stats-ruddy.vercel.app/api?username=alexreynlds&show_icons=true&theme=transparent" alt="Alexreynlds's GitHub stats" />
+</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alexreynlds"/>
 </p>
@@ -54,10 +58,6 @@
   <img alt="MAC" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  
-</p>
-
-<p align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexreynlds)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!--
 **alexreynlds/alexreynlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
