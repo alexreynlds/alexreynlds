@@ -55,9 +55,9 @@
   <img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  
 </p>
-<p align="center">
- <img alt="WINDOWS" src="https://github-readme-stats.vercel.app/api?username=alexreynlds&theme=blue-green">
-</p>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexreynlds)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **alexreynlds/alexreynlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
