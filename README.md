@@ -15,7 +15,7 @@
 <h2>Primary Developer For:</h2>
 <ul>
   <li>[My Budget Break](https://www.mybudgetbreak.com/)</li>
-  <li>[Three Lakes Angling](https://threelakesangling.com/)/li>
+  <li>[Three Lakes Angling](https://threelakesangling.com/)</li>
 </ul>
 
 <h2>About Me</h2>
