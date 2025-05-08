@@ -11,6 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=alexreynlds"/>
 </p>
 
+
+<h2>Primary Developer For:</h2>
+<ul>
+  <li>[My Budget Break](https://www.mybudgetbreak.com/)</li>
+  <li>[Three Lakes Angling](https://threelakesangling.com/)/li>
+</ul>
+
 <h2>About Me</h2>
 <ul>
   <li>:trophy: University of Lincoln Games Computing Bachelors Graduate</li>
@@ -61,11 +68,6 @@
 </p>
 <!--
 **alexreynlds/alexreynlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
